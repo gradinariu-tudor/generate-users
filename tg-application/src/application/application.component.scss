@@ -1,0 +1,26 @@
+table {
+  width: 60%;
+  align-items: center;
+}
+
+.mat-cell {
+  padding: 16px;
+  text-align: center;
+}
+
+th.mat-header-cell {
+  padding: 16px;
+  text-align: center;
+  justify-content: center;
+}
+
+.container-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 1rem;
+}
+
+button {
+  padding: 16px;
+}
